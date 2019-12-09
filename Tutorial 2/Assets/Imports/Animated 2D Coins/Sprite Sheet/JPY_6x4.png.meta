@@ -1,0 +1,666 @@
+fileFormatVersion: 2
+guid: 7a64d093929a4bc45ae1993d93258ee0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5229025625153448826
+    second: JPY_6x4_0
+  - first:
+      213: 761080475642093783
+    second: JPY_6x4_1
+  - first:
+      213: 23363222926238235
+    second: JPY_6x4_2
+  - first:
+      213: -5702076050388487457
+    second: JPY_6x4_3
+  - first:
+      213: -1117351619030912378
+    second: JPY_6x4_4
+  - first:
+      213: 8427683047430047760
+    second: JPY_6x4_5
+  - first:
+      213: 1087464880813542059
+    second: JPY_6x4_6
+  - first:
+      213: -7225538861532885938
+    second: JPY_6x4_7
+  - first:
+      213: -8369918138995712631
+    second: JPY_6x4_8
+  - first:
+      213: -6252537086888309962
+    second: JPY_6x4_9
+  - first:
+      213: 2547242846109778092
+    second: JPY_6x4_10
+  - first:
+      213: 4153741312717389139
+    second: JPY_6x4_11
+  - first:
+      213: 4078104963551049819
+    second: JPY_6x4_12
+  - first:
+      213: 2870074273326913246
+    second: JPY_6x4_13
+  - first:
+      213: 4268856614234272092
+    second: JPY_6x4_14
+  - first:
+      213: 4435711470916741513
+    second: JPY_6x4_15
+  - first:
+      213: -9147872694767487676
+    second: JPY_6x4_16
+  - first:
+      213: 4289364162039691340
+    second: JPY_6x4_17
+  - first:
+      213: -4715970104475858840
+    second: JPY_6x4_18
+  - first:
+      213: -8138127803428948554
+    second: JPY_6x4_19
+  - first:
+      213: -8646629079999406324
+    second: JPY_6x4_20
+  - first:
+      213: -1842921512007632045
+    second: JPY_6x4_21
+  - first:
+      213: 6604059314887532819
+    second: JPY_6x4_22
+  - first:
+      213: 312465551713041160
+    second: JPY_6x4_23
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JPY_6x4_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 380
+        width: 28
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e2fbfa987769047ba67e897ead9b4a
+      internalID: -5229025625153448826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JPY_6x4_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 380
+        width: 44
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186d2d65eb025b94d8accc552c78c20c
+      internalID: 761080475642093783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JPY_6x4_2
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 380
+        width: 58
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e15b577d2223c48b433bc6cb475469
+      internalID: 23363222926238235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JPY_6x4_3
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 380
+        width: 72
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1077e3085a900418f56f413b1b2c95
+      internalID: -5702076050388487457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JPY_6x4_4
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 380
+        width: 84
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ad5a5e0c9897f41bc4cfc88bad3803
+      internalID: -1117351619030912378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JPY_6x4_5
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 380
+        width: 96
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7748f2d1ad256342b6997607c4b2ee7
+      internalID: 8427683047430047760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JPY_6x4_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 254
+        width: 106
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b789c528757761438d79c6cb321def5
+      internalID: 1087464880813542059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JPY_6x4_7
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 254
+        width: 112
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb03cf1eaa83c474889e6f32e99f00a8
+      internalID: -7225538861532885938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JPY_6x4_8
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 254
+        width: 118
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a2713ac3d54e644bffc40e454860c0
+      internalID: -8369918138995712631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JPY_6x4_9
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 254
+        width: 122
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b5ff6f7f939554983566f44a8fd500
+      internalID: -6252537086888309962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JPY_6x4_10
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 254
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc8fe7c7b19fbe419c6d2ca8e357008
+      internalID: 2547242846109778092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JPY_6x4_11
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 254
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1e9dfe095d99749a55f0332d72c915
+      internalID: 4153741312717389139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JPY_6x4_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe42151da821d944395626f763326996
+      internalID: 4078104963551049819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JPY_6x4_13
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 128
+        width: 122
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fadeeced2f8d3e4e8caaad417f1458e
+      internalID: 2870074273326913246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JPY_6x4_14
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 128
+        width: 118
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f493c00212429d4c83f5b67eb1aa08f
+      internalID: 4268856614234272092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JPY_6x4_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 112
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffd801d9d4b4f84187274414f523dca
+      internalID: 4435711470916741513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JPY_6x4_16
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 128
+        width: 106
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2436ff89d753a7a4283b6ee6d9734c09
+      internalID: -9147872694767487676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JPY_6x4_17
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 128
+        width: 96
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94a0815ee1f6f64998605940c07b08e
+      internalID: 4289364162039691340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JPY_6x4_18
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2
+        width: 84
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a1d36403f55a346b82511ad5c0de71
+      internalID: -4715970104475858840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JPY_6x4_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 2
+        width: 72
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0db62eb48a29dc4687460b4c73b0ed4
+      internalID: -8138127803428948554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JPY_6x4_20
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 2
+        width: 58
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fab8b8130c6e64cb303f0d5c6f6d3a
+      internalID: -8646629079999406324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JPY_6x4_21
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 2
+        width: 44
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06b487d88941804987623abd41f100a
+      internalID: -1842921512007632045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JPY_6x4_22
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 2
+        width: 28
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a2e10c6d992ac4083c8affb632efec
+      internalID: 6604059314887532819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JPY_6x4_23
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 2
+        width: 12
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8208cfc62e032c4787439ca0ea93edb
+      internalID: 312465551713041160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
